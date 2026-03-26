@@ -1,0 +1,394 @@
+{
+  "_meta": {
+    "version": "1.1",
+    "updated": "2026-03-26",
+    "source": "https://github.com/liquidfinger/iRacing_App"
+  },
+  "_default": {
+    "displayName": "Default",
+    "category": "GT3",
+    "wheelbase_m": 2.65,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 15.0,
+    "track_width_front_m": 1.65,
+    "track_width_rear_m": 1.65
+  },
+
+  "acuransxevo22gt3": {
+    "displayName": "Acura NSX GT3 Evo 22",
+    "category": "GT3",
+    "wheelbase_m": 2.642,
+    "cg_front_ratio": 0.437,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.715,
+    "track_width_rear_m": 1.687
+  },
+  "amvantageevogt3": {
+    "displayName": "Aston Martin Vantage GT3 Evo",
+    "category": "GT3",
+    "wheelbase_m": 2.600,
+    "cg_front_ratio": 0.49,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.650,
+    "track_width_rear_m": 1.620
+  },
+  "audir8lmsevo2gt3": {
+    "displayName": "Audi R8 LMS GT3 Evo II",
+    "category": "GT3",
+    "wheelbase_m": 2.700,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.640,
+    "track_width_rear_m": 1.610
+  },
+  "bmwm4gt3": {
+    "displayName": "BMW M4 GT3",
+    "category": "GT3",
+    "wheelbase_m": 2.857,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.655,
+    "track_width_rear_m": 1.670
+  },
+  "chevyvettez06rgt3": {
+    "displayName": "Chevrolet Corvette Z06R GT3",
+    "category": "GT3",
+    "wheelbase_m": 2.718,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.648,
+    "track_width_rear_m": 1.586
+  },
+  "ferrari296gt3": {
+    "displayName": "Ferrari 296 GT3",
+    "category": "GT3",
+    "wheelbase_m": 2.660,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.726,
+    "track_width_rear_m": 1.710
+  },
+  "ferrari296challenge": {
+    "displayName": "Ferrari 296 Challenge",
+    "category": "GT3",
+    "wheelbase_m": 2.660,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.726,
+    "track_width_rear_m": 1.710
+  },
+  "ferrarievogt3": {
+    "displayName": "Ferrari 488 GT3 Evo",
+    "category": "GT3",
+    "wheelbase_m": 2.700,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.650,
+    "track_width_rear_m": 1.630
+  },
+  "fordmustanggt3": {
+    "displayName": "Ford Mustang GT3",
+    "category": "GT3",
+    "wheelbase_m": 2.777,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.650,
+    "track_width_rear_m": 1.640
+  },
+  "lamborghinievogt3": {
+    "displayName": "Lamborghini Huracan GT3 Evo",
+    "category": "GT3",
+    "wheelbase_m": 2.645,
+    "cg_front_ratio": 0.439,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.700,
+    "track_width_rear_m": 1.660
+  },
+  "mclaren720sgt3": {
+    "displayName": "McLaren 720S GT3",
+    "category": "GT3",
+    "wheelbase_m": 2.696,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.745,
+    "track_width_rear_m": 1.716
+  },
+  "mercedesamgevogt3": {
+    "displayName": "Mercedes-AMG GT3 Evo",
+    "category": "GT3",
+    "wheelbase_m": 2.720,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.660,
+    "track_width_rear_m": 1.640
+  },
+  "porsche992rgt3": {
+    "displayName": "Porsche 911 GT3 R (992)",
+    "category": "GT3",
+    "wheelbase_m": 2.507,
+    "cg_front_ratio": 0.435,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.545,
+    "track_width_rear_m": 1.570
+  },
+
+  "amvantagegt4": {
+    "displayName": "Aston Martin Vantage GT4",
+    "category": "GT4",
+    "wheelbase_m": 2.703,
+    "cg_front_ratio": 0.49,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.625,
+    "track_width_rear_m": 1.600
+  },
+  "bmwm4evogt4": {
+    "displayName": "BMW M4 GT4 Evo",
+    "category": "GT4",
+    "wheelbase_m": 2.857,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.640,
+    "track_width_rear_m": 1.650
+  },
+  "bmwm2csr": {
+    "displayName": "BMW M2 CS Racing",
+    "category": "GT4",
+    "wheelbase_m": 2.693,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.568,
+    "track_width_rear_m": 1.608
+  },
+  "fordmustanggt4": {
+    "displayName": "Ford Mustang GT4",
+    "category": "GT4",
+    "wheelbase_m": 2.720,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.560,
+    "track_width_rear_m": 1.545
+  },
+  "mclaren570sgt4": {
+    "displayName": "McLaren 570S GT4",
+    "category": "GT4",
+    "wheelbase_m": 2.674,
+    "cg_front_ratio": 0.49,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.644,
+    "track_width_rear_m": 1.593
+  },
+  "mercedesamggt4": {
+    "displayName": "Mercedes-AMG GT4",
+    "category": "GT4",
+    "wheelbase_m": 2.630,
+    "cg_front_ratio": 0.49,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.580,
+    "track_width_rear_m": 1.560
+  },
+  "porsche718gt4": {
+    "displayName": "Porsche 718 Cayman GT4 RS CS",
+    "category": "GT4",
+    "wheelbase_m": 2.474,
+    "cg_front_ratio": 0.49,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.539,
+    "track_width_rear_m": 1.534
+  },
+
+  "porsche963gtp": {
+    "displayName": "Porsche 963 GTP",
+    "category": "GTP",
+    "wheelbase_m": 3.148,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.620,
+    "track_width_rear_m": 1.600
+  },
+  "cadillacvseriesgtp": {
+    "displayName": "Cadillac V-Series.R GTP",
+    "category": "GTP",
+    "wheelbase_m": 3.148,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.620,
+    "track_width_rear_m": 1.600
+  },
+  "bmwlmdh": {
+    "displayName": "BMW M Hybrid V8 GTP",
+    "category": "GTP",
+    "wheelbase_m": 3.148,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.620,
+    "track_width_rear_m": 1.600
+  },
+  "acuraarx06gtp": {
+    "displayName": "Acura ARX-06 GTP",
+    "category": "GTP",
+    "wheelbase_m": 3.148,
+    "cg_front_ratio": 0.47,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.620,
+    "track_width_rear_m": 1.600
+  },
+
+  "dallarap217": {
+    "displayName": "Dallara LMP2 P217",
+    "category": "LMP2",
+    "wheelbase_m": 3.010,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.540,
+    "track_width_rear_m": 1.540
+  },
+  "ligierjsp320": {
+    "displayName": "Ligier JS P320 LMP3",
+    "category": "LMP3",
+    "wheelbase_m": 2.860,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.520,
+    "track_width_rear_m": 1.520
+  },
+
+  "audirs3lms": {
+    "displayName": "Audi RS3 LMS TCR",
+    "category": "TCR",
+    "wheelbase_m": 2.665,
+    "cg_front_ratio": 0.48,
+    "steering_ratio": 14.0,
+    "track_width_front_m": 1.550,
+    "track_width_rear_m": 1.550
+  },
+  "hondacivictyper": {
+    "displayName": "Honda Civic Type R TCR",
+    "category": "TCR",
+    "wheelbase_m": 2.700,
+    "cg_front_ratio": 0.48,
+    "steering_ratio": 14.0,
+    "track_width_front_m": 1.560,
+    "track_width_rear_m": 1.545
+  },
+  "hyundaielantracn7": {
+    "displayName": "Hyundai Elantra N TCR",
+    "category": "TCR",
+    "wheelbase_m": 2.750,
+    "cg_front_ratio": 0.48,
+    "steering_ratio": 14.0,
+    "track_width_front_m": 1.570,
+    "track_width_rear_m": 1.555
+  },
+  "hyundaivelo": {
+    "displayName": "Hyundai Veloster N TCR",
+    "category": "TCR",
+    "wheelbase_m": 2.650,
+    "cg_front_ratio": 0.48,
+    "steering_ratio": 14.0,
+    "track_width_front_m": 1.555,
+    "track_width_rear_m": 1.540
+  },
+
+  "porsche9922cup": {
+    "displayName": "Porsche 911 GT3 Cup (992)",
+    "category": "Cup",
+    "wheelbase_m": 2.458,
+    "cg_front_ratio": 0.435,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.530,
+    "track_width_rear_m": 1.545
+  },
+
+  "formulair04": {
+    "displayName": "Dallara Formula IR-04",
+    "category": "Formula",
+    "wheelbase_m": 2.745,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.500,
+    "track_width_rear_m": 1.480
+  },
+  "raygr22": {
+    "displayName": "Ray GR22 (FF1600)",
+    "category": "Formula",
+    "wheelbase_m": 2.450,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.400,
+    "track_width_rear_m": 1.380
+  },
+  "rt2000": {
+    "displayName": "Skip Barber Formula 2000",
+    "category": "Formula",
+    "wheelbase_m": 2.500,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.480,
+    "track_width_rear_m": 1.460
+  },
+  "superformulasf23": {
+    "displayName": "Super Formula SF23",
+    "category": "Formula",
+    "wheelbase_m": 3.115,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.600,
+    "track_width_rear_m": 1.550
+  },
+  "superformulalights324": {
+    "displayName": "Super Formula Lights SF3",
+    "category": "Formula",
+    "wheelbase_m": 2.866,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 12.0,
+    "track_width_front_m": 1.618,
+    "track_width_rear_m": 1.540
+  },
+  "dallarair18": {
+    "displayName": "Dallara IR18 IndyCar",
+    "category": "Formula",
+    "wheelbase_m": 3.124,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 10.0,
+    "track_width_front_m": 1.524,
+    "track_width_rear_m": 1.524
+  },
+  "dallarair01": {
+    "displayName": "Dallara iR-01",
+    "category": "Formula",
+    "wheelbase_m": 2.900,
+    "cg_front_ratio": 0.46,
+    "steering_ratio": 11.0,
+    "track_width_front_m": 1.600,
+    "track_width_rear_m": 1.550
+  },
+
+  "mx5 mx52016": {
+    "displayName": "Mazda MX-5 Cup 2016",
+    "category": "Touring",
+    "wheelbase_m": 2.311,
+    "cg_front_ratio": 0.50,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.495,
+    "track_width_rear_m": 1.505
+  },
+  "toyotagr86": {
+    "displayName": "Toyota GR86",
+    "category": "Touring",
+    "wheelbase_m": 2.575,
+    "cg_front_ratio": 0.52,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.520,
+    "track_width_rear_m": 1.550
+  },
+
+  "radical sr8": {
+    "displayName": "Radical SR8",
+    "category": "Sports",
+    "wheelbase_m": 2.335,
+    "cg_front_ratio": 0.45,
+    "steering_ratio": 13.0,
+    "track_width_front_m": 1.370,
+    "track_width_rear_m": 1.370
+  }
+}
