@@ -113,7 +113,7 @@
 変更後のソフトウェアを継続して使用した場合、改定後の契約書に
 同意したものとみなします。最新版は以下で確認できます。
 
-  https://github.com/liquidfinger/iRacing_App
+  https://github.com/liquidfinger/iRacing_App_release
 
 ================================================================
 iRacingSlipAngleVisualizer  開発者：liquidfinger
