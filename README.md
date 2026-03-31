@@ -1,4 +1,4 @@
-# iRacingSlipAngleVisualizer
+# iRacingSlipAngleVisualizer (iASV)
 
 **iRacing** のテレメトリーデータをリアルタイムで解析し、スリップアングルをわかりやすく視覚表示するオーバーレイアプリです。
 ゲーム画面に半透明オーバーレイを重ねて表示するため、走行中のドライビングフィードバックとして活用できます。
