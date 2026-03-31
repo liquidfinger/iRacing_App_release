@@ -10,7 +10,7 @@
 
 ## ダウンロード
 
-**[最新版 v1.2.7 をダウンロード](https://github.com/liquidfinger/iRacing_App_release/releases/latest)**
+**[最新版 v1.2.8 をダウンロード](https://github.com/liquidfinger/iRacing_App_release/releases/latest)**
 
 ---
 
@@ -20,7 +20,7 @@
 |------|------|
 | スリップアングル表示 | 前後左右4輪・CoGのスリップ角をリアルタイム数値表示 |
 | スリップベクター図 | タイヤごとのスリップ方向を視覚的なベクター図で表示 |
-| リアルタイムグラフ | スリップ角の時系列グラフ（5秒ウィンドウ） |
+| リアルタイムグラフ | スリップ角の時系列グラフ（5秒ウィンドウ）、グラフ分離ウィンドウ対応 |
 | ペダル入力グラフ | アクセル（緑）・ブレーキ（赤）の開度グラフ |
 | SDKローデータ | Speed / Fuel / AirTemp / TrackTemp などの生テレメトリー表示 |
 | IBT再生 | iRacing の .ibt 録画ファイルを読み込んで解析・再生 |
@@ -41,7 +41,7 @@
 
 ## インストール
 
-1. [Releases ページ](https://github.com/liquidfinger/iRacing_App_release/releases/latest) から `iRacingSlipAngleVisualizer_Setup_v1.2.7.exe` をダウンロード
+1. [Releases ページ](https://github.com/liquidfinger/iRacing_App_release/releases/latest) から `iRacingSlipAngleVisualizer_Setup_v1.2.8.exe` をダウンロード
 2. インストールウィザードに従って完了
 3. スタートメニュー または デスクトップショートカットから起動
 
@@ -62,6 +62,7 @@ IBT ファイルを解析する場合は、コントロールパネルの **「D
 
 | バージョン | 主な変更 |
 |-----------|---------|
+| v1.2.8 | グラフ分離ウィンドウ（Split Graphs）追加、Front Slipライン追加、グラフ各ライントグル、パネル半透明背景、Panel Visibilityにグラフ個別ON/OFF追加 |
 | v1.2.7 | ペダルバーを90%位置でセグメント分割、開度文字サイズ拡大、デルタタイム表示修正、CoGOffset編集UI追加 |
 | v1.2.3 | 外部車両DB (carspec.json) 対応・42車種、オーバーレイに車両名/Dry/Wet表示、EULA追加、アイコン修正、各種バグ修正 |
 | v1.2.x | CoGHeight SDK自動取得 (IRSDKSharper v1.1.6)、ラップタイム修正 |
