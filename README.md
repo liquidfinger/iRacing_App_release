@@ -9,7 +9,7 @@
 
 ## ダウンロード
 
-**[最新版 v1.3.0.2 をダウンロード](https://github.com/liquidfinger/iRacing_App_release/releases/latest)**
+**[最新版 v1.3.0.4 をダウンロード](https://github.com/liquidfinger/iRacing_App_release/releases/latest)**
 
 ---
 
@@ -20,7 +20,8 @@
 | スリップアングル表示 | 前後左右4輪・CoGのスリップ角をリアルタイム数値表示 |
 | スリップベクター図 | タイヤごとのスリップ方向を矢印ベクターで可視化 |
 | リアルタイムグラフ | スリップ角の時系列グラフ（5/10/30/60秒ウィンドウ切替） |
-| ペダル入力グラフ | アクセル（緑）・ブレーキ（赤）の開度グラフ |
+| ペダル入力グラフ | アクセル（緑）・ブレーキ（赤）・クラッチ（オレンジ）の開度グラフ（各ライン表示切替可） |
+| タイヤスリップバランスモニター | フロント/リアのスリップ角バーメーター + NEUTRAL/UNDERSTEER/OVERSTEER リアルタイム判定。時系列グラフ付き |
 | G-Force トラクションサークル | 前後左右Gを円グラフで可視化（軌跡付き）。車両タイプ別スケール自動切替 |
 | ABS 作動検知 | ブレーキ中の ABS 作動をトラクションサークルのオレンジ点滅で表示 |
 | SDK ローデータ | Speed / RPM / Fuel / Gear / 気温 / 路面温度 / Velocity / YawRate などの生テレメトリー |
@@ -42,7 +43,7 @@
 
 ## インストール
 
-1. [Releases ページ](https://github.com/liquidfinger/iRacing_App_release/releases/latest) から `iRacingSlipAngleVisualizer_Setup_v1.3.0.2.exe` をダウンロード
+1. [Releases ページ](https://github.com/liquidfinger/iRacing_App_release/releases/latest) から `iRacingSlipAngleVisualizer_Setup_v1.3.0.4.exe` をダウンロード
 2. インストールウィザードに従って完了
 3. スタートメニュー または デスクトップショートカットから起動
 
@@ -74,6 +75,8 @@
 
 | バージョン | 主な変更 |
 |-----------|---------|
+| v1.3.0.4 | タイヤスリップバランスモニター追加（バーメーター・NEUTRAL/UNDERSTEER/OVERSTEER判定・時系列グラフ）、ペダルグラフにクラッチ追加、保存リプレイ逆再生グラフ改善、各種バグ修正 |
+| v1.3.0.3 | 各種バグ修正 |
 | v1.3.0.2 | 重大なバグ修正 |
 | v1.2.9.9 | レブリミット到達時にビープ音を鳴らす機能を追加 |
 
