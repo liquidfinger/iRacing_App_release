@@ -86,7 +86,6 @@
   - ライブ走行・ANALYSISモード・IBT再生に対応
 - 保存リプレイ ROLLANGLE 高精度化
   - 路面バンク角適応推定（EMA）＋ K 係数自動キャリブレーション（忘却型最小二乗法）
-- WeekendInfo 診断に車両情報追加（CarID / CarPath / CarName / TrackName）
 - REALTIME TELEMETRY グラフの計算ロジックのバグを修正
 
 **v1.3.0.4**
